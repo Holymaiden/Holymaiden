@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```rescript
+```javascript
 
 export default Fihaa = {
   name: 'Fihaa',
