@@ -43,6 +43,6 @@ export default Fihaa = {
 <img alt="Fihaa | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
 </code>](https://www.facebook.com/fiqri.haikar/)
 [<code>
-<img alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img alt="Fihaa | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </code>](https://www.instagram.com/fiqri_haikhar/)
 <br/>
