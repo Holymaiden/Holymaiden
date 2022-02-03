@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 export default Fihaa = {
   name: 'Fihaa',
   username: 'Holymaiden',
-  organization: 'DipanegaraComputerClub && MIB-Ade'Pitue',
+  organization: 'DipanegaraComputerClub && MIB-Ade`Pitue',
   city: 'Makassar, 🇮🇩',
   lang: ['id', 'en'],
   interests: [
