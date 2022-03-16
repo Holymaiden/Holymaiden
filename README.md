@@ -22,7 +22,7 @@ export default Fihaa = {
   username: 'Holymaiden',
   organization: 'DipanegaraComputerClub && MIB-Ade`Pitue',
   city: 'Makassar, 🇮🇩',
-  lang: ['id', 'en'],
+  lang: ['id', 'en', 'jp],
   interests: [
     'functionalprogramming',
     'anime',
