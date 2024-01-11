@@ -23,6 +23,7 @@ export default Fihaa = {
   organization: ['DipanegaraComputerClub', 'MIB-Ade`Pitue'],
   city: 'Makassar, 🇮🇩',
   lang: ['id', 'en', 'jp'],
+  web: [fihaa.my.id](https://fihaa-app.com/)
   interests: [
     'functionalprogramming',
     'anime',
