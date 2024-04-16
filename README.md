@@ -36,3 +36,5 @@ export default Fihaa = {
 };
 
 ```
+
+[![An image of @holymaiden's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/holymaiden)](https://holopin.io/@holymaiden)
